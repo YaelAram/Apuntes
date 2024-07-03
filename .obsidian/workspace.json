@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "b427b81cc2b449c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "c409078dd56369ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d757d6139d4087a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS/Tips/Crear variables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c881bca2d245e4de",
+    "type": "split",
+    "children": [
+      {
+        "id": "e53ec18641c4f2dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cea3a32385eb0e6a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "38913fdf4f7dd3e1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "80094187c1b516f7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 313.5
+  },
+  "right": {
+    "id": "d010b00bc87c4825",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff8e7e51e327c696",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e858c1bc5609cff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CSS/Tips/Crear variables.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bdc61a6edb3e5c0d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CSS/Tips/Crear variables.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b582d06228013458",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8e1361d7c13f9446",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CSS/Tips/Crear variables.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d757d6139d4087a9",
+  "lastOpenFiles": [
+    "CSS/Tips/Tema claro y oscuro.md",
+    "CSS/Tips/Crear variables.md",
+    "CSS/Tips/Grid responsive.md",
+    "CSS/Tips/Zoom en una imagen.md",
+    "CSS/Tips/Ajustar textarea al contenido.md",
+    "CSS/Tips/Untitled",
+    "CSS/Tips/Balancear el texto (text-wrap).md",
+    "().md",
+    "CSS/Tips",
+    "HTML/Etiquetas/Media.md",
+    "CSS",
+    "HTML/Etiquetas/Listas.md",
+    "HTML/Etiquetas/Controles y Formularios.md",
+    "HTML/Etiquetas/Agrupacion.md",
+    "HTML/Etiquetas/Texto.md",
+    "HTML/Etiquetas/Tablas.md",
+    "HTML/Etiquetas",
+    "HTML/Etiquetas/Otros.md",
+    "HTML/Semanticos.md",
+    "HTML/Tips/Estilo de texto.md",
+    "HTML/Tips/Tooltip.md",
+    "HTML/Tips/Carga de Imágenes.md",
+    "HTML/Tips/Agrupar elementos en un formulario.md",
+    "HTML/Tips/Acordeon.md",
+    "HTML/Media/Audio.md",
+    "HTML/Otros/Links (a).md",
+    "HTML/Semanticos/Address.md",
+    "HTML/Semanticos/Definition (dfn).md",
+    "HTML/Semanticos/Abbreviation (abbr).md",
+    "HTML/Agrupacion/Section.md",
+    "HTML/Media",
+    "HTML/Agrupacion",
+    "HTML/Semanticos",
+    "HTML/Tips",
+    "HTML/Otros",
+    "HTML",
+    "Proyecto/Screenshots/IP_Servidor_EMAIL.png",
+    "Proyecto/Screenshots/EMAIL_Service.png",
+    "Proyecto/Screenshots/IP_Servidor_FTP.png",
+    "Proyecto/Screenshots/FTP_Service.png",
+    "Proyecto/Screenshots/IP_Servidor_HTTP.png",
+    "Proyecto/Screenshots/IP_Servidor_DNS.png",
+    "Proyecto/Screenshots/DNS_Service.png",
+    "Proyecto/Screenshots/HTTP_Service.png",
+    "Proyecto/Screenshots/Pasted image 20240514224142.png",
+    "MySQL/LMD/SELECT/JOIN/join-sql.jpg"
+  ]
+}

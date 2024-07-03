@@ -1,0 +1,6 @@
+- **Br**: Nos permite realizar un salto de linea.
+- **Datalist**: Puede ser utilizado como una lista de posibles valores para una caja de texto, al enlazar ambos elementos el campo de texto muestra como opciones de auto completado los valores contenidos por el elemento *datalist*. [MDN.](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/datalist)
+- **Dialog**: Nos permite crear ventanas flotantes, las cuales pueden mostrar información relevante al usuario u obtener información mediante un formulario. Referencia [MDN.](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog)
+- **Link**: Nos permite realizar la carga de archivos CSS o el favicon de la aplicación. Referencia [MDN.](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link)
+- **Meter**: Nos permite representar un valor dentro de un rango de valores, similar a lo que mostraría un nivel de tanque de gasolina en un auto. Referencia [MDN.](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meter)
+- **Progress**: Nos permite crear una barra de progreso. Referencia [MDN.](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/progress)

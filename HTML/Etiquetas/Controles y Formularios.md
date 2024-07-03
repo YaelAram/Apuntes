@@ -1,0 +1,8 @@
+- **Button**: Nos permite crear un botón con el cual el usuario puede interactuar para ejecutar una acción. Referencia [MDN.](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button)
+- **Form**: Nos permite crear un nuevo bloque de formulario en el se pueden especificar elementos como el método de la llamada HTTP y el *endpoint*, aunque muchos de los frameworks no lo utilizan para evitar la recarga de la página. Referencia [MDN.](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
+- **Input**: Nos permite crear diferentes tipos de entrada de datos desde solo texto a entrada de fechas y hora, selectores de colores, etc. Referencia [MDN.](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)
+- **Label**: Sirve para dar un titulo a un elemento del formulario. Referencia [MDN.](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label)
+- **Select**: Nos permite crear un menú desplegable, un beneficio de este tipo controles es que restringe las respuestas que un usuario puede seleccionar. Referencia [MDN.](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select)
+	- **Optgroup**: Permite agrupar una serie de opciones del elemento *select* y asignar un titulo al grupo. [MDN.](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/optgroup)
+	- **Option**: Representa cada una de las opciones del menú desplegable, podemos especificar el valor a mostrar al usuario y un valor al que podemos acceder una vez el formulario fue enviado. [MDN.](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/option)
+- **Textarea**: Nos permite crear una caja de texto que admite multiples lineas de contenido. Referencia [MDN.](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/textarea)
