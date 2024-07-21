@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c409078dd56369ed",
+        "id": "bbd4e82e04af5033",
         "type": "tabs",
         "children": [
           {
-            "id": "d757d6139d4087a9",
+            "id": "89d8e6a0185b0417",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/Tips/Crear variables.md",
+                "file": "Angular/04. Variables de Entorno.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 337.5
   },
   "right": {
     "id": "d010b00bc87c4825",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/Tips/Crear variables.md",
+                "file": "Angular/04. Variables de Entorno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/Tips/Crear variables.md",
+                "file": "Angular/04. Variables de Entorno.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/Tips/Crear variables.md"
+                "file": "Angular/04. Variables de Entorno.md"
               }
             }
           }
@@ -146,44 +146,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d757d6139d4087a9",
+  "active": "89d8e6a0185b0417",
   "lastOpenFiles": [
-    "CSS/Tips/Tema claro y oscuro.md",
-    "CSS/Tips/Crear variables.md",
-    "CSS/Tips/Grid responsive.md",
-    "CSS/Tips/Zoom en una imagen.md",
-    "CSS/Tips/Ajustar textarea al contenido.md",
+    "Angular/09. Formularios Reactivos/03. Debounce.md",
+    "Angular/06. Routing/07. Verificar si el usuario esta en una ruta.md",
+    "Angular/05. HTTP Client/04. Modificar Headers.md",
+    "Angular/05. HTTP Client/09. Petición GET (ID).md",
+    "Angular/05. HTTP Client/08. Petición DELETE.md",
+    "Angular/05. HTTP Client/07. Petición PATCH.md",
+    "Angular/05. HTTP Client/06. Petición POST.md",
+    "Angular/05. HTTP Client/05. Petición GET.md",
+    "Angular/04. Variables de Entorno.md",
+    "Angular/09. Formularios Reactivos/02. Controlador de formulario.md",
+    "Angular/09. Formularios Reactivos/01. Formularios Reactivos.md",
+    "Angular/02. Componentes/06. Two Way Data Binding.md",
+    "Angular/03. Debounce.md",
+    "Angular/06. Routing/05. Configurar un layout.md",
+    "Angular/06. Routing/06. Redireccionar al usuario.md",
+    "Angular/05. HTTP Client/07. Petición PUT.md",
+    "Angular/05. HTTP Client/02. Parámetros URL.md",
+    "Angular/05. HTTP Client/03. Agregar un Body.md",
+    "Angular/05. HTTP Client/01. HTTP Client.md",
+    "Angular/09. Formularios Reactivos",
+    "Angular/08. Guards",
+    "Angular/07. RxJS/Usos/01..md",
+    "Angular/07. RxJS/Usos",
+    "Angular/02. Componentes/05. Template Syntax.md",
+    "Angular/07. RxJS/02. Creation Operators.md",
+    "Angular/07. RxJS/03. Join Creation Operators.md",
+    "Angular/07. RxJS/04. Transformation Operators.md",
+    "Angular/07. RxJS/05. Filtering Operators.md",
+    "Angular/07. RxJS/06. Error Handling Operators.md",
+    "CSS/Propiedades CSS/Transformaciones",
+    "CSS/Propiedades CSS/Grid",
+    "CSS/Propiedades CSS/Flexbox",
+    "CSS/Propiedades CSS",
+    "CSS/Conceptos CSS",
     "CSS/Tips/Untitled",
-    "CSS/Tips/Balancear el texto (text-wrap).md",
-    "().md",
     "CSS/Tips",
-    "HTML/Etiquetas/Media.md",
-    "CSS",
-    "HTML/Etiquetas/Listas.md",
-    "HTML/Etiquetas/Controles y Formularios.md",
-    "HTML/Etiquetas/Agrupacion.md",
-    "HTML/Etiquetas/Texto.md",
-    "HTML/Etiquetas/Tablas.md",
-    "HTML/Etiquetas",
-    "HTML/Etiquetas/Otros.md",
-    "HTML/Semanticos.md",
-    "HTML/Tips/Estilo de texto.md",
-    "HTML/Tips/Tooltip.md",
-    "HTML/Tips/Carga de Imágenes.md",
-    "HTML/Tips/Agrupar elementos en un formulario.md",
-    "HTML/Tips/Acordeon.md",
-    "HTML/Media/Audio.md",
-    "HTML/Otros/Links (a).md",
-    "HTML/Semanticos/Address.md",
-    "HTML/Semanticos/Definition (dfn).md",
-    "HTML/Semanticos/Abbreviation (abbr).md",
-    "HTML/Agrupacion/Section.md",
-    "HTML/Media",
-    "HTML/Agrupacion",
-    "HTML/Semanticos",
-    "HTML/Tips",
-    "HTML/Otros",
-    "HTML",
     "Proyecto/Screenshots/IP_Servidor_EMAIL.png",
     "Proyecto/Screenshots/EMAIL_Service.png",
     "Proyecto/Screenshots/IP_Servidor_FTP.png",

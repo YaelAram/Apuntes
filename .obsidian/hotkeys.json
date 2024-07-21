@@ -38,5 +38,14 @@
       ],
       "key": "Numpad4"
     }
+  ],
+  "editor:insert-mathblock": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "M"
+    }
   ]
 }
