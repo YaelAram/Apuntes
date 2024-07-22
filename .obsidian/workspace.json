@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bbd4e82e04af5033",
+        "id": "f593511e27826756",
         "type": "tabs",
         "children": [
           {
-            "id": "89d8e6a0185b0417",
+            "id": "412c10c0b4b8dfe2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/04. Variables de Entorno.md",
+                "file": "Angular/08. Guards/03. Resolver.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular/04. Variables de Entorno.md",
+                "file": "Angular/08. Guards/03. Resolver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Angular/04. Variables de Entorno.md",
+                "file": "Angular/08. Guards/03. Resolver.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Angular/04. Variables de Entorno.md"
+                "file": "Angular/08. Guards/03. Resolver.md"
               }
             }
           }
@@ -146,8 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89d8e6a0185b0417",
+  "active": "412c10c0b4b8dfe2",
   "lastOpenFiles": [
+    "Angular/08. Guards/02. CanActivate.md",
+    "Angular/08. Guards/03. Resolver.md",
+    "Angular/08. Guards/04. CanDeactivate.md",
+    "Angular/08. Guards/01. Crear un Guard.md",
+    "Angular/04. Pipes/01. Crear un pipe.md",
+    "Angular/02. Componentes/01. Crear un componente.md",
+    "Angular/09. Formularios Reactivos/02. Controlador de formulario.md",
+    "Angular/02. Componentes/Directivas/01. ngIf.md",
+    "Angular/04. Variables de Entorno.md",
     "Angular/09. Formularios Reactivos/03. Debounce.md",
     "Angular/06. Routing/07. Verificar si el usuario esta en una ruta.md",
     "Angular/05. HTTP Client/04. Modificar Headers.md",
@@ -156,8 +165,6 @@
     "Angular/05. HTTP Client/07. Petición PATCH.md",
     "Angular/05. HTTP Client/06. Petición POST.md",
     "Angular/05. HTTP Client/05. Petición GET.md",
-    "Angular/04. Variables de Entorno.md",
-    "Angular/09. Formularios Reactivos/02. Controlador de formulario.md",
     "Angular/09. Formularios Reactivos/01. Formularios Reactivos.md",
     "Angular/02. Componentes/06. Two Way Data Binding.md",
     "Angular/03. Debounce.md",
@@ -169,14 +176,7 @@
     "Angular/05. HTTP Client/01. HTTP Client.md",
     "Angular/09. Formularios Reactivos",
     "Angular/08. Guards",
-    "Angular/07. RxJS/Usos/01..md",
     "Angular/07. RxJS/Usos",
-    "Angular/02. Componentes/05. Template Syntax.md",
-    "Angular/07. RxJS/02. Creation Operators.md",
-    "Angular/07. RxJS/03. Join Creation Operators.md",
-    "Angular/07. RxJS/04. Transformation Operators.md",
-    "Angular/07. RxJS/05. Filtering Operators.md",
-    "Angular/07. RxJS/06. Error Handling Operators.md",
     "CSS/Propiedades CSS/Transformaciones",
     "CSS/Propiedades CSS/Grid",
     "CSS/Propiedades CSS/Flexbox",
