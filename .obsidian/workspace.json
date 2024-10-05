@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f593511e27826756",
+        "id": "39bfc90f8c18089e",
         "type": "tabs",
         "children": [
           {
-            "id": "412c10c0b4b8dfe2",
+            "id": "5a999e5f24c0bbed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/09. Formularios Reactivos/06. Validacion Asincrona.md",
+                "file": "Proyecto Redes II/Guadalajara/03. Servicios/01. Servicio DNS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular/09. Formularios Reactivos/06. Validacion Asincrona.md",
+                "file": "Proyecto Redes II/Guadalajara/03. Servicios/01. Servicio DNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Angular/09. Formularios Reactivos/06. Validacion Asincrona.md",
+                "file": "Proyecto Redes II/Guadalajara/03. Servicios/01. Servicio DNS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Angular/09. Formularios Reactivos/06. Validacion Asincrona.md"
+                "file": "Proyecto Redes II/Guadalajara/03. Servicios/01. Servicio DNS.md"
               }
             }
           }
@@ -146,52 +146,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "412c10c0b4b8dfe2",
+  "active": "5a999e5f24c0bbed",
   "lastOpenFiles": [
-    "Angular/02. Componentes/Directivas Angular/04. ngStyle.md",
-    "Angular/02. Componentes/Directivas Angular/03. ngClass.md",
-    "Angular/02. Componentes/Directivas Angular/01. ngIf.md",
+    "Angular/14. Control Flow/03. Control SWITCH.md",
+    "Angular/14. Control Flow/02. Control FOR.md",
     "Angular/02. Componentes/Directivas Angular/02. ngFor.md",
-    "MySQL/General/02. Conexión CLI.md",
-    "Angular/11. Directivas/01. Crear una Directiva.md",
-    "Angular/12. Signals/01. Crear un Signal.md",
-    "Angular/12. Signals",
-    "Angular/11. Directivas/02. Directivas.md",
-    "Angular/10. Standalone Components/05. Navegar a otra ruta.md",
-    "Angular/11. Directivas",
-    "CSS/Tips/Tema claro y oscuro.md",
-    "CSS/Propiedades CSS/Transformaciones/Transition.md",
-    "Angular/06. Routing/08. Agregar funciones del router a un modulo sin routing.md",
-    "Angular/06. Routing/07. Verificar si el usuario esta en una ruta.md",
-    "Angular/06. Routing/06. Redireccionar al usuario.md",
-    "Angular/10. Standalone Components/04. Lazy Loading Rutas (Module App).md",
-    "Angular/06. Routing/03. Links.md",
-    "Angular/10. Standalone Components/03. Importar un Standalone Component.md",
-    "Angular/10. Standalone Components/02. Standalone Components.md",
-    "Angular/02. Componentes/01. Crear un componente.md",
-    "Angular/10. Standalone Components/01. Crear un Standalone Component.md",
+    "Angular/14. Control Flow/01. Control IF.md",
+    "Angular/14. Control Flow/01. Control Flow.md",
+    "Angular/13. Standalone Projects/03. Archivo de Rutas.md",
+    "Angular/14. Control Flow",
+    "Angular/13. Standalone Projects/02. Servicio Router y HttpClient.md",
+    "Angular/13. Standalone Projects/01. Standalone Projects.md",
+    "Angular/09. Formularios Reactivos/01. Formularios Reactivos.md",
     "Angular/05. HTTP Client/01. HTTP Client.md",
-    "Angular/03. Servicios/03. Servicios No Globales.md",
+    "Angular/10. Standalone Components/06. Redireccionar al usuario.md",
+    "Angular/10. Standalone Components/04. Lazy Loading Rutas (Module App).md",
+    "Angular/05. HTTP Client/04. Modificar Headers.md",
+    "Angular/05. HTTP Client/02. Parámetros URL.md",
+    "Angular/05. HTTP Client/03. Agregar un Body.md",
+    "Angular/05. HTTP Client/09. Petición GET (ID).md",
+    "Angular/05. HTTP Client/08. Petición DELETE.md",
+    "Angular/05. HTTP Client/07. Petición PATCH.md",
+    "Angular/05. HTTP Client/06. Petición POST.md",
+    "Angular/05. HTTP Client/05. Petición GET.md",
+    "Angular/06. Routing/06. Redireccionar al usuario.md",
+    "Angular/06. Routing/04. Obtener parámetros de la URL.md",
+    "Angular/06. Routing/05. Configurar un layout.md",
+    "Angular/08. Guards/04. CanDeactivate.md",
+    "Angular/13. Standalone Projects",
+    "Angular/08. Guards/03. Resolver.md",
+    "Angular/08. Guards/02. CanActivate.md",
+    "NestJS",
+    "Angular/12. Signals",
+    "Angular/11. Directivas",
     "Angular/10. Standalone Components",
-    "Angular/02. Componentes/04. Output.md",
-    "Angular/09. Formularios Reactivos/06. Validacion Asincrona.md",
-    "Angular/09. Formularios Reactivos/07. Validators a nivel de formulario.md",
-    "Angular/09. Formularios Reactivos/04. Angular Validators.md",
     "Angular/09. Formularios Reactivos",
     "Angular/08. Guards",
     "Angular/07. RxJS/Usos",
     "CSS/Propiedades CSS/Transformaciones",
-    "CSS/Propiedades CSS/Grid",
-    "CSS/Propiedades CSS/Flexbox",
-    "CSS/Propiedades CSS",
-    "Proyecto/Screenshots/IP_Servidor_EMAIL.png",
-    "Proyecto/Screenshots/EMAIL_Service.png",
-    "Proyecto/Screenshots/IP_Servidor_FTP.png",
-    "Proyecto/Screenshots/FTP_Service.png",
-    "Proyecto/Screenshots/IP_Servidor_HTTP.png",
-    "Proyecto/Screenshots/IP_Servidor_DNS.png",
-    "Proyecto/Screenshots/DNS_Service.png",
-    "Proyecto/Screenshots/HTTP_Service.png",
+    "Proyecto Redes II/Screenshots/IP_Servidor_EMAIL.png",
+    "Proyecto Redes II/Screenshots/EMAIL_Service.png",
+    "Proyecto Redes II/Screenshots/IP_Servidor_FTP.png",
+    "Proyecto Redes II/Screenshots/FTP_Service.png",
+    "Proyecto Redes II/Screenshots/IP_Servidor_HTTP.png",
+    "Proyecto Redes II/Screenshots/IP_Servidor_DNS.png",
+    "Proyecto Redes II/Screenshots/DNS_Service.png",
+    "Proyecto Redes II/Screenshots/HTTP_Service.png",
     "Proyecto/Screenshots/Pasted image 20240514224142.png",
     "MySQL/LMD/SELECT/JOIN/join-sql.jpg"
   ]
