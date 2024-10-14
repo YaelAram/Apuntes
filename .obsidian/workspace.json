@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proyecto Redes II/Guadalajara/03. Servicios/01. Servicio DNS.md",
+                "file": "Angular/12. Signals/05. Model Signals.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proyecto Redes II/Guadalajara/03. Servicios/01. Servicio DNS.md",
+                "file": "Angular/12. Signals/05. Model Signals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proyecto Redes II/Guadalajara/03. Servicios/01. Servicio DNS.md",
+                "file": "Angular/12. Signals/05. Model Signals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proyecto Redes II/Guadalajara/03. Servicios/01. Servicio DNS.md"
+                "file": "Angular/12. Signals/05. Model Signals.md"
               }
             }
           }
@@ -148,7 +148,15 @@
   },
   "active": "5a999e5f24c0bbed",
   "lastOpenFiles": [
+    "Angular/12. Signals/04. Input Signals y Outputs.md",
+    "Angular/12. Signals/05. Model Signals.md",
+    "Angular/14. Control Flow/05. Defer Block.md",
+    "Angular/06. Routing/03. Links.md",
+    "Angular/05. HTTP Client/01. HTTP Client.md",
+    "Angular/05. Change Detection Strategy.md",
+    "Angular/02. Componentes/03. Input.md",
     "Angular/14. Control Flow/03. Control SWITCH.md",
+    "Proyecto Redes II/Guadalajara/03. Servicios/01. Servicio DNS.md",
     "Angular/14. Control Flow/02. Control FOR.md",
     "Angular/02. Componentes/Directivas Angular/02. ngFor.md",
     "Angular/14. Control Flow/01. Control IF.md",
@@ -158,7 +166,6 @@
     "Angular/13. Standalone Projects/02. Servicio Router y HttpClient.md",
     "Angular/13. Standalone Projects/01. Standalone Projects.md",
     "Angular/09. Formularios Reactivos/01. Formularios Reactivos.md",
-    "Angular/05. HTTP Client/01. HTTP Client.md",
     "Angular/10. Standalone Components/06. Redireccionar al usuario.md",
     "Angular/10. Standalone Components/04. Lazy Loading Rutas (Module App).md",
     "Angular/05. HTTP Client/04. Modificar Headers.md",
@@ -168,14 +175,7 @@
     "Angular/05. HTTP Client/08. Petición DELETE.md",
     "Angular/05. HTTP Client/07. Petición PATCH.md",
     "Angular/05. HTTP Client/06. Petición POST.md",
-    "Angular/05. HTTP Client/05. Petición GET.md",
-    "Angular/06. Routing/06. Redireccionar al usuario.md",
-    "Angular/06. Routing/04. Obtener parámetros de la URL.md",
-    "Angular/06. Routing/05. Configurar un layout.md",
-    "Angular/08. Guards/04. CanDeactivate.md",
     "Angular/13. Standalone Projects",
-    "Angular/08. Guards/03. Resolver.md",
-    "Angular/08. Guards/02. CanActivate.md",
     "NestJS",
     "Angular/12. Signals",
     "Angular/11. Directivas",
