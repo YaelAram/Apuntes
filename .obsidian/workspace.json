@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "39bfc90f8c18089e",
+        "id": "ebd33a6ce4f5fa3a",
         "type": "tabs",
         "children": [
           {
-            "id": "5a999e5f24c0bbed",
+            "id": "ca7e5fe54a86bad5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/12. Signals/05. Model Signals.md",
+                "file": "Git y GitHub/14. Git Push.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "14. Git Push"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular/12. Signals/05. Model Signals.md",
+                "file": "Git y GitHub/05. Git Reset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 05. Git Reset"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Angular/12. Signals/05. Model Signals.md",
+                "file": "Git y GitHub/05. Git Reset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 05. Git Reset"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Angular/12. Signals/05. Model Signals.md"
-              }
+                "file": "Git y GitHub/05. Git Reset.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 05. Git Reset"
             }
           }
         ]
@@ -146,35 +162,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a999e5f24c0bbed",
+  "active": "ca7e5fe54a86bad5",
   "lastOpenFiles": [
+    "Git y GitHub/05. Git Reset.md",
+    "Git y GitHub/14. Git Push.md",
+    "Git y GitHub/11. Git Merge.md",
+    "Git y GitHub/08. Git Branch.md",
+    "Git y GitHub/14. Git Rebase.md",
+    "Git y GitHub/13. Git Stash.md",
+    "Git y GitHub/06. Git Commit.md",
+    "Git y GitHub/07. Git Checkout.md",
+    "Git y GitHub/04. Git Add.md",
+    "Git y GitHub/02. Git Config.md",
+    "Git y GitHub/10. Git Reflog.md",
+    "Angular/09. Formularios Reactivos/05. Validaciones con Valibot.md",
+    "CSS/Tips/Tema claro y oscuro.md",
+    "Git y GitHub/12. Git Tag.md",
+    "Git y GitHub/09. Git Diff.md",
+    "Git y GitHub/01. Conceptos Importantes.md",
+    "Angular/09. Formularios Reactivos/04. Angular Validators.md",
+    "Angular/09. Formularios Reactivos/03. Debounce.md",
+    "Angular/09. Formularios Reactivos/02. Controlador de formulario.md",
+    "Angular/09. Formularios Reactivos/01. Formularios Reactivos.md",
+    "Git y GitHub/03. Git Status.md",
+    "Git y GitHub",
     "Angular/12. Signals/04. Input Signals y Outputs.md",
     "Angular/12. Signals/05. Model Signals.md",
     "Angular/14. Control Flow/05. Defer Block.md",
     "Angular/06. Routing/03. Links.md",
     "Angular/05. HTTP Client/01. HTTP Client.md",
-    "Angular/05. Change Detection Strategy.md",
-    "Angular/02. Componentes/03. Input.md",
-    "Angular/14. Control Flow/03. Control SWITCH.md",
-    "Proyecto Redes II/Guadalajara/03. Servicios/01. Servicio DNS.md",
-    "Angular/14. Control Flow/02. Control FOR.md",
-    "Angular/02. Componentes/Directivas Angular/02. ngFor.md",
-    "Angular/14. Control Flow/01. Control IF.md",
-    "Angular/14. Control Flow/01. Control Flow.md",
-    "Angular/13. Standalone Projects/03. Archivo de Rutas.md",
     "Angular/14. Control Flow",
-    "Angular/13. Standalone Projects/02. Servicio Router y HttpClient.md",
-    "Angular/13. Standalone Projects/01. Standalone Projects.md",
-    "Angular/09. Formularios Reactivos/01. Formularios Reactivos.md",
-    "Angular/10. Standalone Components/06. Redireccionar al usuario.md",
-    "Angular/10. Standalone Components/04. Lazy Loading Rutas (Module App).md",
-    "Angular/05. HTTP Client/04. Modificar Headers.md",
-    "Angular/05. HTTP Client/02. Parámetros URL.md",
-    "Angular/05. HTTP Client/03. Agregar un Body.md",
-    "Angular/05. HTTP Client/09. Petición GET (ID).md",
-    "Angular/05. HTTP Client/08. Petición DELETE.md",
-    "Angular/05. HTTP Client/07. Petición PATCH.md",
-    "Angular/05. HTTP Client/06. Petición POST.md",
     "Angular/13. Standalone Projects",
     "NestJS",
     "Angular/12. Signals",
@@ -183,7 +200,6 @@
     "Angular/09. Formularios Reactivos",
     "Angular/08. Guards",
     "Angular/07. RxJS/Usos",
-    "CSS/Propiedades CSS/Transformaciones",
     "Proyecto Redes II/Screenshots/IP_Servidor_EMAIL.png",
     "Proyecto Redes II/Screenshots/EMAIL_Service.png",
     "Proyecto Redes II/Screenshots/IP_Servidor_FTP.png",
