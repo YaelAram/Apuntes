@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2d62a889b16098e9",
+            "id": "05c3144a75ae5a99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/05. Pipes/04. Pipes Numbers.md",
+                "file": "NodeJS/02. Server utilities/01. Logs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04. Pipes Numbers"
+              "title": "01. Logs"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 232.5
   },
   "right": {
     "id": "d010b00bc87c4825",
@@ -162,39 +162,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d62a889b16098e9",
+  "active": "05c3144a75ae5a99",
   "lastOpenFiles": [
-    "Angular/05. Pipes/05. Pipes Colecciones.md",
-    "Angular/05. Pipes/03. Pipes Strings.md",
-    "Angular/16. Testing/10. Testing de Queries.md",
-    "Angular/16. Testing/09. Testing con Fetch.md",
-    "Angular/18. Tanstack Query/07. Set Data en un Query.md",
-    "Angular/18. Tanstack Query/06. Prefetching de datos.md",
-    "Angular/18. Tanstack Query/05. Query con dependencias.md",
-    "Angular/18. Tanstack Query/01. Tanstack Query.md",
-    "Angular/18. Tanstack Query/03. Query Enabled.md",
-    "Angular/18. Tanstack Query/04. Query Key.md",
-    "Angular/18. Tanstack Query/02. Crear un Query.md",
-    "Angular/01. Tips/04. Variables de Entorno.md",
+    "NodeJS/02. Server utilities/02. Cron jobs.md",
+    "NodeJS/02. Server utilities/01. Logs.md",
+    "NodeJS/01. Tips/01. Cargar archivos .env.md",
+    "NodeJS/02. Server utilities",
+    "TypeScript/02. Crear rutas absolutas.md",
+    "TypeScript/01. Crear un nuevo proyecto.md",
+    "TypeScript/03. Alternativa a los Enums.md",
+    "MySQL/LCD/01. Usuarios.md",
+    "MySQL/General/02. Conexión CLI.md",
+    "MySQL/General/03. Tipos de Datos.md",
+    "Bases de Datos II/04. Seguridad.md",
+    "Bases de Datos II/05. Docker y RQLITE.md",
+    "Bases de Datos II/03. Transacciones.md",
+    "Bases de Datos II/02. Respaldo y Logs.md",
+    "Bases de Datos II/01. Repaso.md",
+    "HTML/Tips/Menu Lateral.md",
+    "TypeScript/01. Tips",
+    "JavaScript",
+    "TypeScript",
+    "HTML/Tips/Carga de Imágenes.md",
+    "CSS/Tips/Centrar un Dialog o Modales.md",
+    "CSS/Tips/Tema claro y oscuro.md",
+    "Git/02. Git Config.md",
+    "Git/01. Conceptos Importantes.md",
+    "Git/17. Git Clone.md",
+    "Git/14. Git Remote.md",
+    "GitHub/02. Contribuir.md",
+    "NodeJS/01. Tips/02. Obtener parametros por consola.md",
+    "Git/05. Git Reset.md",
+    "Git/07. Git Checkout.md",
+    "NodeJS/01. Tips",
+    "NodeJS",
     "Angular/18. Tanstack Query",
-    "Angular/16. Testing/08. Testing en servicios con Http Client.md",
-    "CSS/Propiedades CSS/Transformaciones/Transition.md",
-    "CSS/Propiedades CSS/Position.md",
-    "Angular/16. Testing/07. Testing de Rutas.md",
-    "Angular/16. Testing/06. Realizar un mock de un componente.md",
-    "Angular/16. Testing/05. Inputs y Outputs de un componente.md",
-    "Angular/16. Testing/04. Mock de un servicio.md",
-    "Angular/16. Testing/03. Testing de componentes.md",
-    "Angular/16. Testing/01. Configurar el entorno.md",
-    "Angular/16. Testing/02. Testing en servicios.md",
-    "Angular/17. SSR y SSG/06. Static Site Generation.md",
-    "Angular/17. SSR y SSG/05. Fetching de Datos.md",
-    "Angular/17. SSR y SSG/04. Mejorar el SEO.md",
-    "Angular/06. HTTP Client/01. HTTP Client.md",
     "Angular/17. SSR y SSG",
     "Angular/16. Testing",
     "MAUI",
-    "Angular/01. Tips",
     "GitHub/Images/Contribuir_07.png",
     "GitHub/Images/Contribuir_08.png",
     "GitHub/Images/Contribuir_06.png",
@@ -204,11 +209,6 @@
     "GitHub/Images/Contribuir_03.png",
     "GitHub/Images/Contribuir_02.png",
     "GitHub/Images/Contribuir_01.png",
-    "Pasted image 20241118192019.png",
-    "GitHub/Images",
-    "GitHub",
-    "Git",
-    "Angular/15. Control Flow",
-    "Angular/14. Standalone Projects"
+    "Pasted image 20241118192019.png"
   ]
 }
