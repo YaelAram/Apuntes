@@ -3,14 +3,14 @@ Algunas veces es necesario crear un menu desplegable con el fin de facilitar el 
 En nuestro HTML definimos lo siguiente:
 
 ```
-<button popovertarget="aside-nav" type=""button>
+<button popovertarget="aside-nav" type="button">
   Open Modal
 </button>
 
 <aside popover="auto" id="aside-nav">
   <menu>...</menu>
 
-  <button popovertarget="aside-nav" type=""button aria-label="Close Menu">
+  <button popovertarget="aside-nav" type="button" aria-label="Close Menu">
     Close Modal
   </button>
 </aside>
