@@ -1,6 +1,6 @@
 Útil para mostrar bloques de información agrupados por un titulo o resumen del bloque.
 
-Fuente [Midudev.](https://x.com/search?q=%40midudev%20%22%3Cdetails%3E%22&src=typed_query)
+Fuente [Midudev.](https://x.com/midudev/status/1746179703050756522)
 
 ```
 <section>
