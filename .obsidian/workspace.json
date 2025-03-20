@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NodeJS/05. Express/02. Middlewares.md",
+                "file": "NodeJS/03. Server utilities/09. GitHub webhooks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02. Middlewares"
+              "title": "09. GitHub webhooks"
             }
           }
         ]
@@ -165,12 +165,16 @@
   },
   "active": "960b811647cb4f65",
   "lastOpenFiles": [
-    "NodeJS/03. Server utilities/08. Subida de archivos (Nube).md",
+    "NodeJS/03. Server utilities/10. Discord webhooks.md",
+    "NodeJS/03. Server utilities/09. GitHub webhooks.md",
+    "NodeJS/05. Express/02. Middlewares.md",
     "NodeJS/05. Express/11. Validar archivos (DTO).md",
+    "NodeJS/05. Express/15. Recomendaciones de rendimiento.md",
+    "NodeJS/03. Server utilities/08. Subida de archivos (Nube).md",
+    "CSS/Propiedades CSS/Transformaciones/Transition.md",
+    "CSS/Tips/Tema claro y oscuro.md",
     "NodeJS/05. Express/10. Rate limit.md",
     "NodeJS/05. Express/11. File Upload.md",
-    "NodeJS/05. Express/02. Middlewares.md",
-    "NodeJS/05. Express/15. Recomendaciones de rendimiento.md",
     "NodeJS/05. Express/09. Check role middleware.md",
     "NodeJS/05. Express/08. Auth token middleware.md",
     "Angular/10. Formularios Reactivos/08. Modificar campos del formulario.md",
@@ -187,10 +191,6 @@
     "NodeJS/04. ORM/Mongoose/06. Entity vs Mongoose Object.md",
     "NodeJS/04. ORM/Mongoose/05. toJSON.md",
     "Angular/13. Signals/08. Resource Signals.md",
-    "Angular/13. Signals/07. Signals - Observables.md",
-    "Angular/13. Signals/09. Linked Signals.md",
-    "Angular/08. RxJS/11. Promises - Observables.md",
-    "Angular/06. HTTP Client/05. Petición GET.md",
     "LateLabDocs",
     "NodeJS/05. Express",
     "NodeJS/02. Bases",
