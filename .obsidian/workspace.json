@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5181ba7b86733687",
+        "id": "e64a477674aba6a7",
         "type": "tabs",
         "children": [
           {
-            "id": "60133c55f18aa23e",
+            "id": "d0bfcbac6841a3b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/OpenCells/i18n/01. Localize.md",
+                "file": "SCRUM/03. Principios.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01. Localize"
+              "title": "03. Principios"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 233.5
   },
   "right": {
     "id": "d010b00bc87c4825",
@@ -155,6 +155,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -163,44 +164,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60133c55f18aa23e",
+  "active": "d0bfcbac6841a3b4",
   "lastOpenFiles": [
-    "Frontend/OpenCells/i18n/02. Recursos.md",
-    "Frontend/OpenCells/i18n/03. Mixin.md",
-    "Frontend/OpenCells/i18n/04. Configuración.md",
-    "Frontend/OpenCells/i18n/01. Localize.md",
-    "Frontend/OpenCells/State Management/02. Controllers.md",
+    "SCRUM/05. Aspectos.md",
+    "SCRUM/03. Principios.md",
+    "SCRUM/04. Procesos y fases/05. Release (Liberación).md",
+    "SCRUM/04. Procesos y fases/01. Initiate (Iniciación).md",
+    "SCRUM/07. Teorías RRHH.md",
+    "SCRUM/06. Miembros del equipo.md",
+    "SCRUM/02. Introducción.md",
+    "SCRUM/01. Conceptos.md",
+    "SCRUM/04. Procesos y fases/04. Review and Retrospect (Revisión y Retrospectiva).md",
+    "SCRUM/04. Procesos y fases/03. Implement (Implementación).md",
+    "SCRUM/04. Procesos y fases/02. Plan and Estimate (Planificación y Estimación).md",
+    "SCRUM/04. Procesos y Fases.md",
+    "SCRUM/04. Procesos y fases",
+    "SCRUM/06. Flujo de trabajo.md",
+    "SCRUM/07. Limitantes de un proyecto.md",
+    "SCRUM/09. Ceremonias.md",
+    "SCRUM",
+    "Control de Versiones/Git/01. Conceptos Importantes.md",
+    "Backend/Docker/Bases de Datos/03. MySQL.md",
+    "Backend/SpringBoot/JDBC/02. Conexión.md",
+    "Backend/SpringBoot/JDBC/01. JDBC.md",
+    "Backend/SpringBoot/Jakarta/03. Crear un Servlet.md",
+    "Backend/SpringBoot/Jakarta/01. Configurar el entorno.md",
+    "Backend/SpringBoot/Jakarta/02. Servlets.md",
+    "Backend/SpringBoot/Jakarta",
+    "Backend/SpringBoot/JDBC/05. Transacciones.md",
+    "Control de Versiones/Git/13. Git Stash.md",
+    "Backend/SpringBoot/Java/Networking/01. URI y URL.md",
+    "Backend/SpringBoot/JDBC/03. Lectura de datos.md",
+    "Backend/SpringBoot/JDBC",
+    "Backend/SpringBoot/Java/Networking",
     "Frontend/OpenCells/i18n",
-    "Frontend/OpenCells/Routing/05. Interceptor.md",
-    "Frontend/OpenCells/Routing/02. Navegación.md",
-    "Frontend/OpenCells/Routing/04. Rendering.md",
-    "Frontend/OpenCells/Routing/01. Routes.md",
-    "Frontend/OpenCells/Routing/03. Obtener parámetro de ruta.md",
     "Frontend/OpenCells/Routing",
-    "Frontend/OpenCells/State Management/01. Channels.md",
-    "Frontend/OpenCells/State Management/03. Bounded Properties.md",
-    "Frontend/Lit/10. Directivas.md",
-    "Frontend/Lit/02. Componentes Lit.md",
     "Frontend/OpenCells/State Management",
-    "Frontend/Lit/07. Referencias al DOM.md",
-    "Frontend/OpenCells/01. Introducción.md",
-    "Frontend/Lit/13. Controllers.md",
     "Frontend/OpenCells",
-    "Frontend/Lit/12. Context.md",
-    "Frontend/Lit/05. Eventos.md",
-    "Frontend/Lit/11. Async Task.md",
-    "Frontend/Lit/11. Context.md",
-    "Frontend/Lit/04. Templating.md",
-    "Frontend/Lit/09. Sentinelas.md",
-    "Frontend/Lit/03. Estado reactivo.md",
-    "Frontend/Lit/08. Estilos.md",
-    "Frontend/Lit/06. Emitir eventos.md",
     "Frontend/Lit",
-    "Backend/SpringBoot/Java/Archivos/NIO",
-    "Backend/SpringBoot/Java/Archivos/IO",
-    "Backend/SpringBoot/Java/Estructuras de datos",
-    "Backend/SpringBoot/Java/Untitled/desktop.ini",
-    "Backend/SpringBoot/Java/Archivos",
     "Control de Versiones/GitHub/Images/Contribuir_07.png",
     "Control de Versiones/GitHub/Images/Contribuir_08.png",
     "Control de Versiones/GitHub/Images/Contribuir_06.png",
